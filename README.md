@@ -1,5 +1,5 @@
 # Bingo-exercise
-A bingo exercise to challenge your friend new in the world of development
+A bingo exercise to challenge your friend new in the development world.
 
 ## Statement
 Whem the applications start the user choose by keyboard how many bingo cards wants to play. 
